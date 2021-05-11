@@ -1,0 +1,16 @@
+.bg-color-yellow{
+    background-color: #ffC017
+}
+.border-bottom-1{
+    border-bottom: 1px solid#222
+
+}
+body{
+    font-family: 'Roboto Slab', serif;
+}
+.margin{
+    margin-left: 200px;
+}
+.margin-2{
+    margin-left: 20px;
+}
